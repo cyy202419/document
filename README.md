@@ -1,4 +1,5 @@
 # 个人简历
+- 姓名：陈阳阳
 - 籍贯：江苏宿迁
 - 邮箱：chenyangyang24@mails.ucas.ac.cn
 
